@@ -1,0 +1,5 @@
+package com.product.trial.master.service;
+
+public class ProductService {
+
+}
